@@ -12,7 +12,7 @@ Author URI: http://e-noch.github.io/digital-me/
 
 	
 .navbar {
-	background: rgba(250, 204, 0, 0.77);
+	background-color: goldenrod;
 }
 	.nav-link:hover {
 		color: rgba(255, 255, 0, 0.99);
