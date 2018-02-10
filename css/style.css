@@ -203,3 +203,11 @@ a.refNumber:active {
 	color: black;
 	font-weight: 600;
 }
+/* Footer 
+*/
+a.bd-text-purple-bright {
+	color: #7952b3;
+}
+a.swatch-red {
+	color: #dc3545;
+}
