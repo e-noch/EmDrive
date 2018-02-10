@@ -1,0 +1,205 @@
+@charset "UTF-8";
+/* CSS Document 
+*/
+/*
+Author: <ENOCH/>
+Author URI: http://e-noch.github.io/digital-me/
+*/
+/*  888888888888888888888888888888888888888888888888888888888888888
+	Author's Custom Style
+	888888888888888888888888888888888888888888888888888888888888888
+*/
+
+	
+.navbar {
+	background: rgba(250, 204, 0, 0.77);
+}
+	.nav-link:hover {
+		color: rgba(255, 255, 0, 0.99);
+	}
+	.space {
+		 background: url('https://static.pexels.com/photos/713664/pexels-photo-713664.jpeg') no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+		-o-background-size: cover;
+	}
+	.space h1 {
+		color: goldenrod;
+	}
+	.space p {
+		color: white;
+	}
+ref {
+    position: relative;	
+    font-size: 75%;
+    line-height: 0;
+    vertical-align: baseline
+}
+ref {
+    top: -.5em
+}
+.LAW2 {
+	max-width: 400px;
+}
+ref {
+    bottom: -.25em
+}
+a.refNumber {
+    color: #6c757d;
+    text-decoration: none;
+    font-size: 95%
+}
+a.refNumber:hover {
+    color: goldenrod;
+    text-decoration: none;
+    font-size: 95%
+}
+a.refNumber:active {
+    color: #2c64cd;
+    text-decoration: none;
+    font-size: 95%
+}
+.Per1 h2 {
+	color: goldenrod;
+}
+.EXP1 p {
+	color: goldenrod;
+}
+.RCR1 {
+	background: url('https://cdn.inquisitr.com/wp-content/uploads/2015/11/NASAs-EM-Drive-Test-Shows-Warp-Drive-Works-EmDrive-Breaks-Isaac-Newtons-Laws-Of-Physics.jpg') no-repeat center;
+	background-size: cover;
+}
+.RCR1 h2, p {
+	color: white;
+}
+.RCR2 {
+	background: url('https://futurism.com/wp-content/uploads/2017/09/5831c3a8c36188ef1d8b4582.jpg') no-repeat center;
+	background-size: cover;
+}
+.RCR2 h2, p {
+	color: white;
+}
+.ILW {
+	height: 300px;
+	width: auto;
+}
+.ILW img {
+	height: 100%;
+}
+.law {
+	color: white;
+}
+.MIF {
+	max-width: 800px;
+}
+.En1 {
+	padding-bottom: 20px;
+}
+.ovLy {
+	background: rgba(250, 204, 0, 0.77);
+	opacity:0;
+	transition: opacity .25s ease-out;
+	border-radius: 2px; 
+}
+.FG1 {
+	background-image: url('https://yt3.ggpht.com/-rDgGy0egtnE/AAAAAAAAAAI/AAAAAAAAAAA/XY0QghfRyk0/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.FG1:hover .ovLy {
+	opacity: 1;
+}
+.FG1 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG2 {
+	background: url('https://yt3.ggpht.com/proxy/P-oyPXaXmxPeUmp8Qrdi2WpayzwCbvNFI7mUmvZMeLSe0uasv0kL0MSUoBq533CWMgsU2ir6MGJx2pul1JplIm0ZlHtDvuhzuslTyflfPn81d-PpV4mq9Np6TKDzjGW5Pa4vKBhDPOFwwzOn9L5M5rpD2HAdFKv2KLU=-w400-h400-n-rj-c0xffffffff') no-repeat center;
+	background-size: cover;
+}
+.FG2:hover .ovLy {
+	opacity: 1;
+}
+.FG2 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG3 {
+	background: url('https://yt3.ggpht.com/hzrNP2Wgr-b0b_pbS3h2A2UHbj7ZylBwR8yT9DUd_QtniTtGgWDhxPgAvojftg5arbUnTVe9=w2120-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no') no-repeat center;
+	background-size: cover;
+}
+.FG3:hover .ovLy {
+	opacity: 1;
+}
+.FG3 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG4 {
+	background: url('https://yt3.ggpht.com/-5vA_LOM_djE/AAAAAAAAAAI/AAAAAAAAAAA/qUeK1ESiQYI/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg') no-repeat center;
+	background-size: cover;
+}
+.FG4:hover .ovLy {
+	opacity: 1;
+}
+.FG4 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG5 {
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png') no-repeat center;
+	background-size: cover;
+}
+.FG5:hover .ovLy {
+	opacity: 1;
+}
+.FG5 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG6 {
+	background: url('http://emdrive.com/images/thruster1.jpg') no-repeat center;
+	background-size: cover;
+}
+.FG6:hover .ovLy {
+	opacity: 1;
+}
+.FG6 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG7 {
+	background: url('https://pbs.twimg.com/media/A9p-8NrCUAAoXT0.jpg') no-repeat center;
+	background-size: cover;
+}
+.FG7:hover .ovLy {
+	opacity: 1;
+}
+.FG7 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG8 {
+	background: url('https://pbs.twimg.com/profile_images/951893638577041408/pLE2qlfr_400x400.jpg') no-repeat center;
+	background-size: cover;
+}
+.FG8:hover .ovLy {
+	opacity: 1;
+}
+.FG8 h2 {
+	color: black;
+	font-weight: 600;
+}
+.FG9 {
+	background: url('https://yt3.ggpht.com/--UyvNKq4u8k/AAAAAAAAAAI/AAAAAAAAAAA/PSqYJRIJ1Ow/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg') no-repeat center;
+	background-size: cover;
+}
+.FG9:hover .ovLy {
+	opacity: 1;
+}
+.FG9 h2 {
+	color: black;
+	font-weight: 600;
+}
