@@ -1,2 +1,2 @@
 # EmDrive
-Testing Bootstrap framework 
+Testing Bootstrap framework for class assignment.
